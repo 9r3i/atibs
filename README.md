@@ -8,3 +8,8 @@ cd atibs
 npm install
 npm start
 ```
+
+# closing
+alhamdulillaah...
+
+
