@@ -11,6 +11,10 @@ function createWindow () {
       preload: path.join(__dirname, 'preload.js')
     }
   })
+  
+  // remove menu
+  mainWindow.removeMenu()
+  //mainWindow.setMenu(null)
 
   // and load the index.html of the app.
   mainWindow.loadFile('index.html')
