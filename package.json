@@ -1,0 +1,19 @@
+{
+  "name": "atibs",
+  "version": "1.0.0",
+  "description": "Aisyah Tahfizh Islamic Boarding School",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/9r3i/atibs",
+  "keywords": [
+    "atibs",
+    "electron"
+  ],
+  "author": "9r3i",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^28.2.0"
+  }
+}
